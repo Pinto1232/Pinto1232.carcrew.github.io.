@@ -603,6 +603,11 @@ header .icons #menu-bars{
 }
 
 
+.user-pic {
+    border-radius: 20rem;
+    max-width: 29%;
+}
+
 
 
 
