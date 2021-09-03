@@ -604,8 +604,8 @@ header .icons #menu-bars{
 
 /*User Picture*/
 .user-pic {
-    border-radius: 20rem;
-    max-width: 29%;
+    border-radius: 20rem!important;
+    max-width: 29%!important;
 }
 
 
