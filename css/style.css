@@ -643,6 +643,12 @@ header .icons #menu-bars{
 
 /* media queries  */
 
+@media (max-width:  4800px){
+  .swiper-horizontal>.swiper-pagination-bullets, .swiper-pagination-bullets.swiper-pagination-horizontal, .swiper-pagination-custom, .swiper-pagination-fraction {
+       bottom: 86px;
+    }
+}
+
 @media (max-width:991px){
 
     html{
